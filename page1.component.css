@@ -1,0 +1,84 @@
+.greenbtn {
+    background-color: rgb(63,157,174);
+    color:white;
+    float:right;
+    clear:right;
+}
+.greenbg{
+    background-color: rgb(195,237,229);
+}
+.tb{
+    border:1px solid black;
+    border-spacing:15px 30px;
+    width: 100%; 
+
+}
+
+th,td{
+    padding:15px;
+}
+table.th.td {
+    border: 1px solid black;
+}
+.kids,.pre,.next{
+    font-size: 30px;   
+}
+.kids{
+    float:left;
+}
+.next,.pre{
+    float:right;
+}
+/*.pre{
+    margin-left: 1400px;
+}
+*/
+.next{
+    margin-left:50px;
+}
+#changeheight{
+    height:250px;
+    overflow:auto;
+    overflow: hidden;
+}
+
+#container1 {
+    width: 145px;
+    height: 100px;
+    border: 1px solid #ccc;
+    overflow-x: scroll;
+  }
+
+  #content {
+    width: 250px;
+    background-color: #ccc;
+  }
+
+#container2{
+    width: 145px;
+    height: 100px;
+    border: 1px solid #ccc;
+    overflow-x: scroll;
+  }
+
+  #myDIV {
+    height: 250px;
+    width: 250px;
+    overflow: auto;
+  }
+  
+  #content2 {
+    height: 800px;
+    width: 2000px;
+    background-color: coral;
+  }
+
+ul{
+    line-height: 20px;
+    list-style: none
+}
+
+#buttons{
+    float:right;
+}
+
